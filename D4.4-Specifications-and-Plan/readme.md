@@ -1,10 +1,10 @@
-#TARGET AUDIENCE
+## TARGET AUDIENCE
 
 This document is intended for both technical and non-technical readers. It intends to provide a
 reasonable amount of background and context information in order to better support understanding
 the work, scope and focus of the Urban open Platform work package.
 
-#PURPOSE
+## PURPOSE
 While the primary purpose of the document is to act as an official deliverable of the FINEST Twins
 Work Package 4, this work also aims to provide an overview and guidance to all the stakeholders
 involved with the smart city projects. It also presents some findings of several Horizon 2020 projects
@@ -17,5 +17,5 @@ then intention was that the reference architecture and design principles would b
 cities to choose their own focus areas with related logical architectures and after that to define the
 specific solution architecture.
 
-This project has received funding from the European Commission (H2020 grant No. 856602) and the
+> This project has received funding from the European Commission (H2020 grant No. 856602) and the
 Estonian Government (Estonian Ministry for Education and Research).
